@@ -1,0 +1,6 @@
+id_distribusi,id_batch,rute,moda_angkutan,jarak_km
+DST-2601,GAYO-NAT-2601,Takengon -> Medan -> Jakarta,Truk Box & Kargo Darat,185
+DST-2602,GAYO-NAT-2602,Bener Meriah -> Banda Aceh,L300 Pick Up Box,140
+DST-2603,GAYO-NAT-2603,Takengon -> Medan,Truk Engkel,155
+DST-2604,GAYO-NAT-2604,Takengon -> Jakarta -> Bandung,Truk Kargo Lintas Sumatera,230
+DST-2605,GAYO-NAT-2605,Bener Meriah -> Medan,Truk Box,160

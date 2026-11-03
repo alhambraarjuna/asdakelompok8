@@ -1,0 +1,6 @@
+id_pascapanen,id_lot_panen,metode,durasi_jemur_hari,kadar_air_akhir_persen,solar_huller_liter
+PSP-NAT-01,LPN-2601,Natural Dry Process (Para-para),24,11.8,3.2
+PSP-NAT-02,LPN-2602,Natural Dry Process (Rumah Kaca),22,11.5,2.9
+PSP-NAT-03,LPN-2603,Natural Dry Process (Para-para),25,11.6,3.0
+PSP-NAT-04,LPN-2604,Natural Dry Process (Para-para),26,12.0,3.6
+PSP-NAT-05,LPN-2605,Natural Dry Process (Rumah Kaca),23,11.7,3.1

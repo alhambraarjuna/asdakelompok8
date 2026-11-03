@@ -1,0 +1,6 @@
+id_roasting,id_green_bean,profil_roast,suhu_akhir_c,durasi_menit,lpg_kg,listrik_kwh
+RST-MR-01,GB-GY-01,Medium Roast (Agtron 58),211,12.5,6.4,9.5
+RST-MR-02,GB-GY-02,Medium Roast (Agtron 60),209,12.0,5.8,8.8
+RST-MR-03,GB-GY-03,Medium Roast (Agtron 59),210,12.2,6.0,9.0
+RST-MR-04,GB-GY-04,Medium Roast (Agtron 56),213,13.0,7.1,10.4
+RST-MR-05,GB-GY-05,Medium Roast (Agtron 58),210,12.4,6.2,

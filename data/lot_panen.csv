@@ -1,0 +1,6 @@
+id_lot_panen,id_kebun,tanggal_panen,bobot_cherry_kg,rasio_petik_merah_persen,solar_angkut_liter
+LPN-2601,KBN-GY-01,2026-05-12,620,96,4.5
+LPN-2602,KBN-GY-02,2026-05-18,580,98,3.8
+LPN-2603,KBN-GY-03,2026-05-25,600,97,4.2
+LPN-2604,KBN-GY-04,2026-06-02,650,94,5.5
+LPN-2605,KBN-GY-05,2026-06-10,590,95,4.0

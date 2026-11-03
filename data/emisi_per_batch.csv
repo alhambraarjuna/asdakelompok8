@@ -1,0 +1,6 @@
+id_batch,kecamatan_kebun,jumlah_pouch_200g,emisi_kebun_kg,emisi_lot_panen_kg,emisi_pascapanen_kg,emisi_green_bean_kg,emisi_roasting_kg,emisi_barang_jadi_kg,emisi_distribusi_kg,total_emisi_batch_kg,emisi_per_200g_kg,skor_kelengkapan_persen,status_audit
+GAYO-NAT-2601,"Bebesen, Aceh Tengah",460,108.78,12.06,8.576,0.9,27.465,24.472,33.3,215.553,0.4686,100.0,Terverifikasi Lengkap
+GAYO-NAT-2602,"Bukit, Bener Meriah",440,94.08,10.184,7.772,0.9,25.056,23.408,25.2,186.6,0.4241,100.0,Terverifikasi Lengkap
+GAYO-NAT-2603,"Atu Lintang, Aceh Tengah",450,89.376,11.256,8.04,0.9,25.83,23.94,27.9,187.242,0.4161,100.0,Terverifikasi Lengkap
+GAYO-NAT-2604,"Jagong Jeget, Aceh Tengah",480,123.48,14.74,9.648,0.9,30.348,25.536,41.4,246.052,0.5126,100.0,Terverifikasi Lengkap
+GAYO-NAT-2605,"Permata, Bener Meriah",430,0.0,10.72,8.308,0.9,18.6,22.876,28.8,90.204,0.2098,92.0,Data Parsial

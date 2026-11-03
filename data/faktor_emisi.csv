@@ -1,0 +1,9 @@
+id_faktor,tahap,komponen,satuan,nilai_fe,satuan_emisi,sumber,status
+FE-01,kebun,Pupuk Nitrogen (Urea/NPK),kg N,5.88,kg CO2e / kg N,IPCC 2019 Refinement Vol. 4,Bersumber
+FE-02,lot_panen,Solar Transportasi Kebun-Proses,liter,2.68,kg CO2e / liter,Kementerian ESDM RI / IPCC,Bersumber
+FE-03,pascapanen,Solar Mesin Huller Kering,liter,2.68,kg CO2e / liter,Kementerian ESDM RI / IPCC,Bersumber
+FE-04,green_bean,Karung Simpan Goni / Hermetik,lembar,0.45,kg CO2e / lembar,Estimasi Operasional Gudang,Asumsi
+FE-05,roasting,Konsumsi Gas LPG Roaster,kg LPG,3.0,kg CO2e / kg LPG,IPCC Stationary Combustion,Bersumber
+FE-06,roasting,Listrik Mesin Roaster & Grinder,kWh,0.87,kg CO2e / kWh,Faktor Emisi Grid PLN Sumatera,Bersumber
+FE-07,barang_jadi,Kemasan Pouch 200g + Degassing Valve,kg plastik/alu,3.8,kg CO2e / kg material,Asumsi Komposit Multilayer Pouch,Asumsi
+FE-08,distribusi,Angkutan Darat Distribusi,km,0.18,kg CO2e / km batch,Estimasi Rute Logistik Rata-rata,Asumsi
